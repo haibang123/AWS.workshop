@@ -14,18 +14,14 @@ In this step, we will navigate to the IAM Console and create a role for the lamb
    - Search for **IAM**
    - Select **IAM** to open the **IAM Dashboard**
 
-![ConnectPrivate](../../images/1/1.2.png)
-![ConnectPrivate](../../images/1/1.2.png)
-
-![ConnectPrivate](../../images/1/1.2.png)
-
+![ConnectPrivate](../../images/1/1.1.png)
 
 2. In the IAM Dashboard
 
    - Select **Roles**
    - Click **Create role**
 
-   ![IAM](/images/1/1.2.png?width=90pc)
+   ![ConnectPrivate](../../images/1/1.2.png)
 
 3. In the **Create role** interface, under **Select trusted entity**
 
@@ -33,27 +29,27 @@ In this step, we will navigate to the IAM Console and create a role for the lamb
    - Under _Service or use case_, select **lambda**
    - Click **Next**
 
-   ![IAM](/images/1/1.3.png?width=90pc)
+   ![ConnectPrivate](../../images/1/1.2.png)
 
 4. In the **Create role** interface, under **Add Permission**
 
    - Search for and select **AmazonS3FullAccess**
 
-   ![AmazonS3FullAccess](/images/1/1.4.png?width=90pc)
+   ![ConnectPrivate](../../images/1/1.3.png)
 
    - Search for and select **AWSlambdaServiceRole**
    - Click **Next**
 
-   ![AWSlambdaServiceRole](/images/1/1.5.png?width=90pc)
+   ![ConnectPrivate](../../images/1/1.4.png)
 
 5. In the **Create role** interface, under **Name, review and create**
 
    - In **Role name**, enter `AWSlambdaServiceRoleDefault`
-     ![AWSlambdaServiceRole](/images/1/1.6.png?width=90pc)
+     ![ConnectPrivate](../../images/1/1.5.png)
    - Review the role details under **Select trusted entity** and **Add Permission**
-     ![AWSlambdaServiceRole](/images/1/1.7.png?width=90pc)
+     ![ConnectPrivate](../../images/1/1.5.png)
    - Click **Create role**
-     ![AWSlambdaServiceRole](/images/1/1.8.png?width=90pc)
+     ![ConnectPrivate](../../images/1/1.6.png)
 
 6. Successful role creation interface:
   
