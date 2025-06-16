@@ -49,7 +49,8 @@ Trong hội thảo này, bạn sẽ xây dựng một ứng dụng không máy c
 ##### Tổng quan kiến trúc
 
 Sơ đồ bên dưới minh họa kiến trúc hệ thống Amazon Polly mà chúng ta sẽ triển khai trong hội thảo:
-![Workshop](/images/Anhworkshop.png)
+
+![Workshop](../../images/Diagramworkshop.png)
 
 ##### Mô tả kiến trúc
 

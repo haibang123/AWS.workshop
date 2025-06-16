@@ -10,14 +10,15 @@ pre = "<b>5.1. </b>"
 
 1. Tìm kiếm và chọn **AWS API**
 
-   ![Lambda](/images/5/5.7.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.7.png)
 
 2. 
 
 - Chọn **New API**
 - Nhập tên **API**
   
-  ![Lambda](/images/5/5.8.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.8.png)
+
 
 3. Thêm **Mô tả (Description)**
 
@@ -25,18 +26,23 @@ pre = "<b>5.1. </b>"
 
   - Nhấn **Create API** (Tạo API)
 
-  ![Lambda](/images/5/5.9.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.9.png)
+
 
 ---
 
 - Nhấn **Create method** (Tạo phương thức)
+
+  ![ConnectPrivate](../../../images/5/5.10.png)
+
 
 - Chọn **Phương thức GET**
 - Nhấn vào **Lambda function**
 - Chọn hàm **Postreader**
 - Nhấn **Create method** (Tạo phương thức)
 
-  ![Lambda](/images/5/5.12.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.12.png)
+
 
 ---
 
@@ -44,7 +50,8 @@ pre = "<b>5.1. </b>"
 
   - Chọn **Enable CORS** (Bật CORS – chia sẻ tài nguyên giữa các miền)
 
-    ![Lambda](/images/5/5.13.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.13.png)
+
 
 ---
 
@@ -59,20 +66,23 @@ pre = "<b>5.1. </b>"
   - Chọn **POST**
   - Nhấn **Save** (Lưu)
 
-  ![Lambda](/images/5/5.14.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.14.png)
+
 
 ---
 
 - Nhấn vào **Integration Request**
 - Chọn **Edit** (Chỉnh sửa)
 
-  ![Lambda](/images/5/5.111.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.15.png)
+
 
 - Trong bước **Mapping templates**
 
   - Chọn **application/json**
 
-    ![Lambda](/images/5/5.16.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.16.png)
+
 
 ---
 
@@ -81,7 +91,8 @@ pre = "<b>5.1. </b>"
   - Thêm **data source**
   - Chọn **Save**
 
-    ![Lambda](/images/5/5.17.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.17.png)
+
 
 ---
 
@@ -89,16 +100,19 @@ pre = "<b>5.1. </b>"
 
   - Nhấn **Deploy API** (Triển khai API)
 
-  ![Lambda](/images/5/5.18.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.18.png)
+
 
   - Chọn **New Stage**
   - Nhập tên giai đoạn là **Dev**
   - Nhấn **Deploy**
 
-  ![Lambda](/images/5/5.19.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.19.png)
+
 
 ---
 
 - Hoàn tất triển khai
 
-  ![Lambda](/images/5/5.20.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.20.png)
+
