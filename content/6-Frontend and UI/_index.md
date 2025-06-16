@@ -44,39 +44,39 @@ This step involves uploading a simple HTML + JavaScript application to an S3 buc
   - Sreach and select **S3**
   - Select **Create Bucket**
 
-  ![Glue](/images/6/6.0.png?width=90pc)
+  ![ConnectPrivate](../images/6/6.0.png)
 
   - Choose **General purpose**
   - Select **Bucket name**
   - Select **Create Bucket**
 
-  ![Glue](/images/5/5.21.png?width=90pc)
 
+  ![ConnectPrivate](../images/5/5.21.png)
 
   - Choose **Add files**
-    ![Glue](/images/6/6.1/6.1.png?width=90pc)
+  ![ConnectPrivate](../images/6/6.1.png)
 
 - In the **Buckets** step
 
   - Choose **Bucket policy**
   - Click **Next**
-    ![Glue](/images/6/6.1/6.2.png?width=90pc)
+  ![ConnectPrivate](../images/6/6.2.png)
 
 
 - In the **Bucket policy** step
   - Add **data source**
   - select **Save change**
 
-  ![Glue](/images/6/6.1/6.3.png?width=90pc)
+  ![ConnectPrivate](../images/6/6.3.png)
 
 - In the **Block public access** step
   - Choose **Delete all**
   - click **confirm**
 
-  ![Glue](/images/6/6.1/6.4.png?width=90pc)
+  ![ConnectPrivate](../images/6/6.4.png)
 
   - Click **Link**
-    ![Glue](/images/6/6.1/6.5.png?width=90pc)
+  ![ConnectPrivate](../images/6/6.5.png)
 
 - In the **Link** 
   - Add **Content**
@@ -84,4 +84,4 @@ This step involves uploading a simple HTML + JavaScript application to an S3 buc
   - Add **Information**
   - **Complete**
 
-    ![Glue](/images/6/6.1/6.6.png?width=90pc)
+   ![ConnectPrivate](../images/6/6.6.png)

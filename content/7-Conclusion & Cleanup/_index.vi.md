@@ -16,39 +16,40 @@ Chúng ta sẽ tiến hành dọn dẹp các tài nguyên đã tạo sau khi ho�
 
 1. **Xóa bảng DynamoDB tên "Posts"**
 
-   ![clean](/images/7/7.1.png?width=90pc)
+  ![ConnectPrivate](../../images/7/7.1.png)
+  ![ConnectPrivate](../../images/7/7.2.png)
 
 2. **Xóa bảng DynamoDB "audioposts-161123"**
 
-   ![clean](/images/7/7.2.png?width=90pc)
+![clean](../../images/7/delete_dynamodb.png?width=90pc)
 
 3. **Xóa dịch vụ SNS**
 
-   ![clean](/images/7/7.3.png?width=90pc)
+  ![ConnectPrivate](../../images/7/7.3.png)
 
    - **Xóa chủ đề (topic) SNS**
 
-     ![clean](/images/7/7.4.png?width=90pc)
+  ![ConnectPrivate](../../images/7/7.4.png)
 
 4. **Xóa hàm Lambda**
 
    - Chọn **Action**
    - Chọn **Delete**
 
-     ![clean](/images/7/7.5.png?width=90pc)
+   ![ConnectPrivate](../../images/7/7.5.png)
 
    - Chọn **Confirm**
 
-     ![clean](/images/7/7.6.png?width=90pc)
+  ![ConnectPrivate](../../images/7/7.6.png)
 
 5. **Xóa API**
 
    - Chọn **API actions**
    - Chọn **Delete API**
 
-     ![clean](/images/7/7.7.png?width=90pc)
+  ![ConnectPrivate](../../images/7/7.7.png)
 
    - Chọn **Confirm**
    - Nhấn **Delete**
 
-     ![clean](/images/7/7.8.png?width=90pc)
+  ![ConnectPrivate](../../images/7/7.8.png)

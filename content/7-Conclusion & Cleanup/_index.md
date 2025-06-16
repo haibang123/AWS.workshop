@@ -11,41 +11,41 @@ We will clean up the following resources:
 #### **Clean up resources **:
 
 1.  **Delete DynamoDB Posts**
-  ![lambda](/images/4/4.1/4.1.png?width=90pc)
 
- ![lambda](/images/4/4.1/4.1.png?width=90pc)
+  ![ConnectPrivate](../images/7/7.1.png)
+  ![ConnectPrivate](../images/7/7.2.png)
 
 2. **Delete DynamoDB audioposts-161123**
 
-![clean](/images/7/delete_dynamodb.png?width=90pc)
+![clean](../images/7/delete_dynamodb.png?width=90pc)
 
 3. **Delete SNS**
 
-![clean](/images/7/7.3.png?width=90pc)
+  ![ConnectPrivate](../images/7/7.3.png)
 
 - **Delete topic SNS**
 
-![clean](/images/7/7.4.png?width=90pc)
+  ![ConnectPrivate](../images/7/7.4.png)
 
 4. **Delete function**
 
 - Choose **Action**
 - Select **Delete**
 
-![clean](/images/7/7.5.png?width=90pc)
+  ![ConnectPrivate](../images/7/7.5.png)
 
 - Choose **confirm**
 
-![clean](/images/7/7.6.png?width=90pc)
+  ![ConnectPrivate](../images/7/7.6.png)
 
 5. **Delete API**
 
 - Choose **API actions**
 - Choose **Delete API**
 
-![clean](/images/7/7.7.png?width=90pc)
+  ![ConnectPrivate](../images/7/7.7.png)
 
 - Choose **confirm**
 - Select **Delete**
 
-![clean](/images/7/7.8.png?width=90pc)
+  ![ConnectPrivate](../images/7/7.8.png)

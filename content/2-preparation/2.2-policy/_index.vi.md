@@ -16,7 +16,8 @@ Trong bước tiếp theo, chúng ta sẽ tạo một chính sách (policy) đ�
 - Chọn mục **Policies**
 - Nhấn **Create policy**
 
-![Policy](/images/1/1.9.png)
+
+   ![ConnectPrivate](../../../images/1/1.9.png)
 
 ---
 
@@ -26,7 +27,8 @@ Trong bước tiếp theo, chúng ta sẽ tạo một chính sách (policy) đ�
 - Dán đoạn mã sau vào phần **Policy Editor**, thay thế `AccountID` bằng mã tài khoản AWS thực tế của bạn.
 - Nhấn **Next**
 
-![Policy](/images/1/1.10.png)
+
+   ![ConnectPrivate](../../../images/1/1.10.png)
 
 ---
 
@@ -34,14 +36,16 @@ Trong bước tiếp theo, chúng ta sẽ tạo một chính sách (policy) đ�
 
 - Đặt tên chính sách là: `AWSGlueServicePolicy`
 
-![Policy](/images/1/1.11.png)
+
+   ![ConnectPrivate](../../../images/1/1.11.png)
 
 - Xem lại cấu hình và nhấn **Create policy**
 
-![Policy](/images/1/1.12.png)
+   ![ConnectPrivate](../../../images/1/1.12.png)
 
 ---
 
 ### 4. Sau khi tạo thành công chính sách
 
-![Policy](/images/1/1.13.png)
+
+   ![ConnectPrivate](../../../images/1/1.13.png)

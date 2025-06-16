@@ -41,24 +41,24 @@ Bước này bao gồm việc tải lên một ứng dụng HTML + JavaScript đ
 - Tìm kiếm và chọn dịch vụ **S3**
 - Chọn **Create Bucket (Tạo Bucket)**
 
-  ![Glue](/images/1.11.png?width=90pc)
+  ![ConnectPrivate](../../images/6/6.0.png)
 
 - Chọn kiểu **General purpose (Mục đích chung)**
 - Đặt tên cho Bucket
 - Nhấn **Create Bucket (Tạo Bucket)**
 
-  ![Glue](/images/5/5.21.png?width=90pc)
+  ![ConnectPrivate](../../images/5/5.21.png)
 
 - Nhấn **Add files (Thêm tệp)** để tải các file frontend lên
 
-  ![Glue](/images/6/6.1/6.1.png?width=90pc)
+  ![ConnectPrivate](../../images/6/6.0.png)
 
 ---
 
 - Trong bước **Buckets**, chọn **Bucket policy**
 - Nhấn **Next (Tiếp tục)**
 
-  ![Glue](/images/6/6.1/6.2.png?width=90pc)
+  ![ConnectPrivate](../../images/6/6.0.png)
 
 ---
 
@@ -66,7 +66,7 @@ Bước này bao gồm việc tải lên một ứng dụng HTML + JavaScript đ
   - Thêm chính sách truy cập dữ liệu (data source)
   - Nhấn **Save changes (Lưu thay đổi)**
 
-  ![Glue](/images/6/6.1/6.3.png?width=90pc)
+  ![ConnectPrivate](../../images/6/6.0.png)
 
 ---
 
@@ -74,13 +74,13 @@ Bước này bao gồm việc tải lên một ứng dụng HTML + JavaScript đ
   - Chọn **Delete all (Xóa tất cả)**
   - Nhấn **Confirm (Xác nhận)**
 
-  ![Glue](/images/6/6.1/6.4.png?width=90pc)
+   ![ConnectPrivate](../../images/6/6.0.png)
 
 ---
 
 - Nhấn vào **Link (Liên kết)** để tạo URL truy cập giao diện
 
-  ![Glue](/images/6/6.1/6.5.png?width=90pc)
+  ![ConnectPrivate](../../images/6/6.0.png)
 
 ---
 
@@ -90,4 +90,4 @@ Bước này bao gồm việc tải lên một ứng dụng HTML + JavaScript đ
   - Thêm **thông tin cần thiết**
   - Nhấn **Hoàn tất**
 
-  ![Glue](/images/6/6.1/6.6.png?width=90pc)
+  ![ConnectPrivate](../../images/6/6.0.png)

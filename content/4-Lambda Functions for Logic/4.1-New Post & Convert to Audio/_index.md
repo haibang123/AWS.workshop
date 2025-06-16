@@ -10,26 +10,26 @@ pre = "<b>4.1. </b>"
 
 1. Search and select **AWS lambda**
 
-   ![lambda](/images/4/4.1/4.1.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.1.png)
 
 2. In the **AWS lambda** interface
 
 - Select **author from scratch**
 - Select **function name**
 - Select **Python**
-  ![lambda](/images/4/4.1/4.2.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.2.png)
 
 3.
   - Click **use an existing**
   - Use **Lab-lambda-Role**
   - Enter **create function**
 
-  ![lambda](/images/4/4.1/4.3.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.3.png)
 
 
   - Click **Add a data source**
 
-  ![lambda](/images/4/4.1/4.4.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.4.png)
 
   - Select **Data source lambda**
   - Click **Browse lambda**
@@ -37,41 +37,41 @@ pre = "<b>4.1. </b>"
   - Choose **deloy**
   - Click **Add enviroment variables**
 
-  ![lambda](/images/4/4.1/4.5.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.5.png)
 
   - click **Add**
-    ![lambda](/images/4/4.1/4.6.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.6.png)
 
   - click **save**
 
   - Choose **Configuetion**: **edit**
 
-    ![lambda](/images/4/4.1/4.7.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.7.png)
 
 - setup **time**
 
-    ![lambda](/images/4/4.1/4.8.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.8.png)
 - create **event**
 
 
 
-![lambda](/images/4/4.1/4.9.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.9.png)
 
 - click **test**
 
-![lambda](/images/4/4.1/4.10.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.10.png)
 
 4. 
 - Select **author from scratch**
 - Select **function name**
 - Select **Python**
 
-![lambda](/images/4/4.1/4.11.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.11.png)
 
 - choose **create function**
 
 
-![lambda](/images/4/4.1/4.12.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.12.png)
 
 - Click **Add a data source**
 
@@ -81,31 +81,31 @@ pre = "<b>4.1. </b>"
   - Choose **deloy**
 
 
-![lambda](/images/4/4.1/4.13.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.13.png)
 
   - Click **Add enviroment variables**
 
-![lambda](/images/4/4.1/4.14.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.14.png)
 
   - Choose **Configuetion**: **edit**
 
-![lambda](/images/4/4.1/4.15.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.15.png)
 - setup **time**
 
-![lambda](/images/4/4.1/4.16.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.16.png)
 - Add **trigger**
 
-![lambda](/images/4/4.1/4.17.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.17.png)
 - click **Add**
 
-![lambda](/images/4/4.1/4.18.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.18.png)
 8. choose **Explore items**
 
-![lambda](/images/4/4.1/4.19.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.19.png)
 8. choose **posts**
 
-![lambda](/images/4/4.1/4.20.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.20.png)
 8. select **Mp3**
 
-![lambda](/images/4/4.1/4.21.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.21.png)
 8. choose **test**

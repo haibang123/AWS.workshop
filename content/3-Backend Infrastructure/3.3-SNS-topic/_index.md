@@ -10,14 +10,14 @@ pre = "<b>3.3. </b>"
 
 1. Search for and select the **SNS** service.
 
-   ![SNS](/images/1/3.8.png?width=90pc)
+  ![ConnectPrivate](../../images/1/3.8.png)
 
 2. Select **standard**.
 3. Select new sns
 
-   ![SNS](/images/1/3.9.png?width=90pc)
+  ![ConnectPrivate](../../images/1/3.9.png)
 
 3. Click **Create topic**.
 
-   ![SNS](/images/1/3.10.png?width=90pc)
+  ![ConnectPrivate](../../images/1/3.10.png)
 

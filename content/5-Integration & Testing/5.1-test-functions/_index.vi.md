@@ -10,24 +10,24 @@ pre = "<b>5.2. </b>"
 
 1. Tìm kiếm và chọn dịch vụ **AWS API**
 
-   ![API](/images/4/4.1/4.1.png?width=90pc)
+  ![ConnectPrivate](../../../images/4/4.1/4.1.png)
 
 2. Trong giao diện **AWS API**
 
 - Chọn **ConvertToAudio**
 - Nhấn **Create Monitor** (Tạo theo dõi)
 
-  ![API](/images/5/5.5.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.5.png)
 
 3. Nhấn vào **View CloudWatch Log** (Xem nhật ký CloudWatch)
 
 - Trong phần **Log stream** (luồng nhật ký)
 
-  ![API](/images/5/5.6.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.6.png)
 
 - Tìm kiếm và chọn **S3**
 
-  ![API](/images/5/5.1.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.1.png)
 
 - Chọn **Data source S3**
 - Nhấn vào **audioposts-161123**
@@ -35,12 +35,12 @@ pre = "<b>5.2. </b>"
 
 - Nhấn **Add an S3 data source** (Thêm nguồn dữ liệu S3)
 
-  ![API](/images/5/5.2.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.2.png)
 
 - Nhấn **Tải xuống (Download)**
 
-  ![API](/images/5/5.3.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.3.png)
 
 - Nhấn **Nghe (Listen)** để kiểm tra âm thanh
 
-  ![API](/images/5/5.4.png?width=90pc)
+  ![ConnectPrivate](../../../images/5/5.4.png)

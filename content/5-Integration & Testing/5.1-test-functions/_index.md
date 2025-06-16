@@ -10,23 +10,24 @@ pre = "<b>5.1. </b>"
 
 1. Search and select **AWS API**
 
-   ![API](/images/4/4.1/4.1.png?width=90pc)
 
+  ![ConnectPrivate](../../images/4/4.1/4.1.png)
+  
 2. In the **AWS API** interface
 
 - Select **ConvertToAudio**
 - Click **Create Monitor**
-  ![API](/images/5/5.5.png?width=90pc)
+  ![ConnectPrivate](../../images/5/5.5.png)
 
 3. Click **View Cloudwatchlog**
 
 - In the **Long stream**
 
-  ![API](/images/5/5.6.png?width=90pc)
+  ![ConnectPrivate](../../images/5/5.6.png)
 
   - Search and select **S3**
 
-  ![API](/images/5/5.1.png?width=90pc)
+  ![ConnectPrivate](../../images/5/5.1.png)
 
   - Select **Data source S3**
   - Click **audioposts-161123**
@@ -34,13 +35,13 @@ pre = "<b>5.1. </b>"
   
   - Click **Add an S3 data source**
 
-  ![API](/images/5/5.2.png?width=90pc)
+  ![ConnectPrivate](../../images/5/5.2.png)
 
 - Choose **download**
 
-    ![API](/images/5/5.3.png?width=90pc)
+  ![ConnectPrivate](../../images/5/5.3.png)
 
 - click **listen**
 
-    ![API](/images/5/5.4.png?width=90pc)
+  ![ConnectPrivate](../../images/5/5.4.png)
 

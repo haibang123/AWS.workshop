@@ -11,11 +11,11 @@ pre = "<b>3.1. </b>"
 1. Search for and select the **DynamoDB** service.
 
 
-![ConnectPrivate](../../images/1/3.1.png)
+   ![ConnectPrivate](../../images/1/3.1.png)
 
 2. In the **DynamoDB** interface, select **Create table**.
 
-   ![ConnectPrivate](../../images/1/32.png)
+   ![ConnectPrivate](../../images/1/3.2.png)
 
 
 3. In the **table name** field, enter `asg-datalake-demo-2024`.

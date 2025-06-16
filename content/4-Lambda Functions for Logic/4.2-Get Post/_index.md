@@ -10,11 +10,10 @@ pre = "<b>4.2. </b>"
 
 1. Search and select the **lambda** 
 
-![lambda](/images/4/4.1/4.22.png?width=90pc)
-
+  ![ConnectPrivate](../../images/4/4.1/4.22.png)
 2. 
 
-![lambda](/images/4/4.1/4.23.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.23.png)
 
 - Click **Add a data source**
 
@@ -24,7 +23,7 @@ pre = "<b>4.2. </b>"
   - Choose **deloy**
 
 
-![lambda](/images/4/4.1/4.24.png?width=90pc)
+  ![ConnectPrivate](../../images/4/4.1/4.24.png)
 
 - Click **Add enviroment variables**
 - click **save**

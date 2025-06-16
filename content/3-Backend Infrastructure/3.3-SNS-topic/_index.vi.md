@@ -10,13 +10,13 @@ pre = "<b>3.3. </b>"
 
 1. Tìm kiếm và chọn dịch vụ **SNS**.
 
-   ![SNS](/images/1/3.8.png?width=90pc)
+  ![ConnectPrivate](../../../images/1/3.8.png)
 
 2. Chọn loại **Standard**.
 3. Chọn **Tạo chủ đề SNS mới**.
 
-   ![SNS](/images/1/3.9.png?width=90pc)
+  ![ConnectPrivate](../../../images/1/3.9.png)
 
 4. Nhấn **Create topic** (Tạo chủ đề).
 
-   ![SNS](/images/1/3.10.png?width=90pc)
+  ![ConnectPrivate](../../../images/1/3.10.png)

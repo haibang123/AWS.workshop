@@ -65,7 +65,7 @@ In this workshop, you’ll build a simple serverless application using Amazon Po
 ##### Architecture Overview
 
 The diagram below illustrates the Amazon Polly system architecture we will deploy in this workshop:
-![Workshop](/images/Anhworkshop.png)
+![Workshop](../images/Anhworkshop.png)
 
 ##### Architecture Description
 

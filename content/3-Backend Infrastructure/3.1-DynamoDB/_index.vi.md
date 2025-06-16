@@ -10,12 +10,15 @@ pre = "<b>3.1. </b>"
 
 1. Tìm kiếm và chọn dịch vụ **DynamoDB**.
 
-   ![DynamoDB](/images/1/3.1.png?width=90pc)
+
+   ![ConnectPrivate](../../../images/1/3.1.png)
 
 2. Trong giao diện **DynamoDB**, chọn **Create table** (Tạo bảng).
 
-   ![DynamoDB](/images/1/3.2.png?width=90pc)
+
+   ![ConnectPrivate](../../../images/1/3.2.png)
 
 3. Trong ô **Table name** (Tên bảng), nhập `asg-datalake-demo-2024`.
 
-   ![DynamoDB](/images/1/3.3.png?width=90pc)
+ 
+   ![ConnectPrivate](../../../images/1/3.3.png)
