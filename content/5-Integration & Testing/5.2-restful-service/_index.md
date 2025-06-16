@@ -10,7 +10,7 @@ pre = "<b>5.2. </b>"
 
 1. Search and select **AWS API**
 
-   ![Lambda](/images/5/5.7.png?width=90pc)
+
      ![ConnectPrivate](../../images/5/5.7.png)
 
 2. 
