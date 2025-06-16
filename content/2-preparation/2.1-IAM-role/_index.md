@@ -14,7 +14,11 @@ In this step, we will navigate to the IAM Console and create a role for the lamb
    - Search for **IAM**
    - Select **IAM** to open the **IAM Dashboard**
 
-   ![IAM](/images/1/1.1.png)
+![ConnectPrivate](../../images/1/1.2.png)
+![ConnectPrivate](../../images/1/1.2.png)
+
+![ConnectPrivate](../../images/1/1.2.png)
+
 
 2. In the IAM Dashboard
 
